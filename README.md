@@ -7,4 +7,5 @@ Fully made [Snake game](http://127.0.0.1:5500/Snake.html).
 
 ## Controls
 > The game can only be played by devices that have or connected with a keyboard. **The controls to move are ↑ (Move up), ↓ (move down), → (Move right), ← (Move left).**
+
 > **The snake can't move to the left if it's moving right or can't move right if it's moving left**. It's the same with **the snake can't move down if it's moving up and can't move up if it's moving down**.
